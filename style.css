@@ -59,7 +59,9 @@ a {
 }
 
 .brand img {
-    width: 145px;
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
     display: block;
 }
 
@@ -898,7 +900,9 @@ a {
 }
 
 .footer-brand img {
-    width: 140px;
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
 
     margin-bottom: 15px;
 }
@@ -995,7 +999,8 @@ body.loaded .hero-content {
     }
 
     .brand img {
-        width: 115px;
+        width: 44px;
+        height: 44px;
     }
 
     .nav-menu {
